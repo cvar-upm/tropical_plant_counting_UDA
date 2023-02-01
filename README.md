@@ -1,4 +1,4 @@
-Welcome to the repository for the paper "Overcoming Domain Shift for Accurate Tropical Plant Detection and Counting."
+Welcome to the repository for the paper "Overcoming Domain Shift for Accurate  Plant Detection and Counting."
 
 Please note that the code and dataset for this paper are not yet available. We are currently preparing them for release and will make them available as soon as possible.
 
